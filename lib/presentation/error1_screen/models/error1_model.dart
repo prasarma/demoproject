@@ -1,0 +1,1 @@
+class Error1Model { }
